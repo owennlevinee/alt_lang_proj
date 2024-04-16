@@ -232,18 +232,16 @@ end
 cells = read_csv('cells.csv')
 puts "Number of cells read: #{cells.length}" # print so we can verify all data was read in properly should print 1000 cell were read_csv
 
-#if print_cells == 1
-#  cells.each do |cell|
-#    cell.print
-#  end
-#end
 
-cells.first(5).each do |cell|
+cells.first(6).each do |cell|
   cell.is_5g_capable
   cell.calc_phone_volume
   cell.is_launched
   cell.features_sensors_count
   cell.get_ppi
+  if print_cells == 1
+    cell.print
+  end
 end
 
 
