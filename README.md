@@ -20,6 +20,17 @@ List out 3 libraries you used from your programming language (if applicable) and
 Answer the following questions (and provide a corresponding screen showing output answering them):
 
 What company (oem) has the highest average weight of the phone body?
+The company with the highest average weight of phone body is: Lenovo, with an average weight of: 292.46153846153845
+![image](https://github.com/owennlevinee/alt_lang_proj/assets/136370542/4cb6377d-cf2a-41fb-9403-568cfdba1625)
+
+
 Was there any phones that were announced in one year and released in another? What are they? Give me the oem and models.
+![image](https://github.com/owennlevinee/alt_lang_proj/assets/136370542/f5fa1aa9-df60-41dd-a42b-b88d3f328243)
+
 How many phones have only one feature sensor?
+![image](https://github.com/owennlevinee/alt_lang_proj/assets/136370542/4ed0f13e-9d1b-4a3b-b5a2-44dbe935faeb)
+
+
 What year had the most phones launched in any year later than 1999? 
+![image](https://github.com/owennlevinee/alt_lang_proj/assets/136370542/28d0aba3-372d-43eb-ba56-a097cd8ec847)
+
